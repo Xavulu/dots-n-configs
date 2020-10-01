@@ -1,0 +1,54 @@
+window:
+  dimensions:
+    columns: 0
+    lines: 0
+
+  padding:
+    x: 2
+    y: 2
+
+font: 
+  normal: 
+      family: Firacode Nerd Font
+      style: Retina
+  bold: 
+    family: Firacode Nerd Font Mono
+    style: bold 
+  italic: 
+    family: Firacode Nerd Font 
+    style: light
+
+  size: 14.0
+
+draw_bold_text_with_bright_colors: true
+
+# Colors (Blood Moon)
+colors:
+  # Default colors
+  primary:
+    background: '#360909'
+    foreground: '#ffdae0'
+
+  # Normal colors
+  normal:
+    black:   '#10100E'
+    red:     '#C40233'
+    green:   '#009F6B'
+    yellow:  '#FFD700'
+    blue:    '#0087BD'
+    magenta: '#9A4EAE'
+    cyan:    '#20B2AA'
+    white:   '#C6C6C4'
+
+  # Bright colors
+  bright:
+    black:   '#696969'
+    red:     '#FF2400'
+    green:   '#DC143C' #actually crimson lol
+    yellow:  '#FDFF00'
+    blue:    '#007FFF'
+    magenta: '#FF1493'
+    cyan:    '#00CCCC'
+    white:   '#FFFAFA'
+
+background_opacity: 0.9
