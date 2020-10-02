@@ -1,3 +1,5 @@
+![shell-screenshot](lain.png)
+
 # .. . ... .
 
 
